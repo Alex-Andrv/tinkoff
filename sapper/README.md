@@ -1,6 +1,6 @@
-## sudoku-cli
+## sapper
 
-Run Game: `python3 sudoku-cli.py`
+Run Game: `python3 sapper-cli.py`
 
 Interface:
 
